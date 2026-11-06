@@ -1,0 +1,14 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024">
+  <title>VOLT</title>
+  <desc>Modern blue lightning bolt above a bold dark navy VOLT wordmark.</desc>
+  <rect width="1024" height="1024" fill="#FFFFFF" />
+  <g id="lightning" fill="#2563EB">
+    <path d="M555 88H706Q713 88 709 95L577 282H769Q779 282 773 291L413 614Q405 621 408 610L522 392H331Q321 392 327 383L543 95Q547 88 555 88Z" />
+  </g>
+  <g id="wordmark" fill="#0F172A">
+    <path id="letter-v" d="M90 662H158L213 802L268 662H336L245 861H181Z" />
+    <path id="letter-o" fill-rule="evenodd" d="M454 656C528 656 582 700 582 763C582 826 528 870 454 870C380 870 326 826 326 763C326 700 380 656 454 656ZM454 710C419 710 393 731 393 763C393 795 419 816 454 816C489 816 515 795 515 763C515 731 489 710 454 710Z" />
+    <path id="letter-l" d="M604 662H671V809H776V861H604Z" />
+    <path id="letter-t" d="M748 662H933V712H874V861H807V712H748Z" />
+  </g>
+</svg>

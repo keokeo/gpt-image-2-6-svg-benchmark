@@ -1,0 +1,23 @@
+{
+  "name": "gpt-image-2-6-svg-benchmark",
+  "version": "1.0.0",
+  "description": "Open benchmark of GPT-Image-2.6 native <svg> vector outputs (logos, 24x24 UI icons, stickers) + zero-dependency TypeScript XML AST SVG sanitizer.",
+  "type": "module",
+  "main": "./src/svg-sanitize.ts",
+  "homepage": "https://gptsvg.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keokeo/gpt-image-2-6-svg-benchmark.git"
+  },
+  "keywords": [
+    "svg",
+    "vector-graphics",
+    "gpt-image-2.6",
+    "ai-svg-generator",
+    "image-to-svg",
+    "svg-sanitizer",
+    "typescript",
+    "cloudflare-workers"
+  ],
+  "license": "MIT"
+}

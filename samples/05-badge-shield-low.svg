@@ -1,0 +1,11 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024">
+  <title>Security shield with star and keyhole</title>
+  <g id="shield">
+    <path fill="#10B981" d="M512 29C404 112 272 157 113 176C67 426 104 748 512 970C920 748 957 426 911 176C752 157 620 112 512 29Z" />
+    <path fill="#064E3B" d="M512 95C413 163 296 205 159 224C126 449 173 709 512 908C851 709 898 449 865 224C728 205 611 163 512 95Z" />
+  </g>
+  <g id="star-keyhole">
+    <path fill="#10B981" d="M512 205L592 375L781 396L640 518L691 709L512 614L333 709L384 518L243 396L432 375Z" />
+    <path fill="#064E3B" d="M484 496A50 50 0 1 1 540 496L562 580H462Z" />
+  </g>
+</svg>
